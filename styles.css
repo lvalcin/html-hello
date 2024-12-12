@@ -1,0 +1,42 @@
+
+body{
+    background-color: grey;
+}
+h1{
+    display: flex;
+    margin: 0 auto;
+    width: 400px; 
+    background-color: white; 
+    padding-left: 37%; 
+    padding-right: 50%;
+}
+.container{
+    display:flex;
+    background-color:white;
+    margin: 0 auto;
+    width: 400px;
+}
+.header{
+    display:block;
+    width: 400px;
+    background-color:white;
+    padding-left: 2%;
+}
+h2{
+    float: left;
+    font-size: smaller;
+}
+span{
+    color: grey;
+    float: right;
+    padding-top: 2%;
+    padding-right: 3%;
+    font-size: smaller;
+}
+img{
+    width: 400px;
+}
+p{
+    padding-left:2%;
+}
+
